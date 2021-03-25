@@ -1,0 +1,139 @@
+.title {
+    color: #02ccba;
+  }
+li{
+  list-style:none;
+  float:left;
+  font-size:30px;
+  border:5px solid black;
+  background-color: lightgreen;
+}  
+.title{
+  padding:20px 10px 100px 650px;
+  height:50px;
+  font-size:100px;
+}
+.a{
+  padding:20px 30px 20px 20px;
+  margin-left:350px;
+}
+.b{
+  padding:20px 30px 20px 20px;
+}
+.c{
+  padding:20px 30px 20px 20px;
+}
+.d{
+  padding:20px 30px 20px 20px;
+}
+.selected{
+  padding:50px 90px 40px 60px;
+  float:right;
+  width:300px;
+  height:350px;
+}
+
+.name{
+  font-size:40px;
+  font-family:Georgia, 'Times New Roman', Times, serif;
+  float:left;
+  padding-left:500px;
+  padding-top:50px;
+  padding-bottom:1px;
+}
+.work{
+  font-size:25px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  float:left;
+  padding-left:520px;
+}
+.description{
+  font-size:30px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-left:220px;
+  padding-right:450px;
+  padding-top:320px;
+  
+}
+.skills{
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  padding-left:600px;
+  padding-top:200px;
+  }
+  .ski{
+    padding-left:400px;
+    font-size:30px;
+    padding-right:400px;
+    padding-top:50px;
+  }
+  .ski2{
+    padding-left:400px;
+    font-size:30px;
+    padding-right:400px;
+  }
+  .ski3{
+    padding-left:400px;
+    padding-right:400px;
+    font-size:30px;
+  }
+  .pro{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left:600px;
+    padding-top:200px;
+    }
+  .projects{
+    font-size:30px;
+    padding-right:400px;
+    padding-left:600px;
+    padding-top:50px;
+  }
+  .link{
+   padding-left:600px;
+  }
+  .contact{
+    font-size: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-left:550px;
+    padding-top:200px;
+  }
+div {
+  display: block;
+}
+.try{
+  color:blue;
+  display:inline-block;
+  opacity:0.8;
+  border-radius: 4px;
+  text-align:center;
+  text-align:center;
+  margin:20px 0;
+  padding-left:10px;
+  font-size:30px;
+  margin-left:300px;
+}
+.facebook{
+  color:blue;
+  display:inline-block;
+  opacity:0.8;
+  border-radius: 4px;
+  text-align:center;
+  text-align:center;
+  margin:20px 0;
+  padding-left:10px;
+  font-size:30px;
+  margin-left:350px;
+}
+.Github{
+  color:blue;
+  display:inline-block;
+  opacity:0.8;
+  border-radius: 4px;
+  text-align:center;
+  text-align:center;
+  margin:20px 0;
+  padding-left:10px;
+  font-size:30px;
+  margin-left:360px;
+}
